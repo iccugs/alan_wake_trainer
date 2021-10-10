@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"health pointer 1"</Description>
+      <LastState Value="1" RealAddress="0759052C"/>
+      <VariableType>Float</VariableType>
+      <Address>"AlanWake.exe"+002C18A4</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+        <Offset>E0</Offset>
+        <Offset>4</Offset>
+        <Offset>4</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
