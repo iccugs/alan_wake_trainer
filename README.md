@@ -4,7 +4,7 @@ A C++ trainer for Alan Wake on Steam, providing memory manipulation and trainer 
 
 ## Credits
 
-This project was built using tutorials and code examples from [GuidedHacking.com](https://guidedhacking.com). All credit for the original memory manipulation, process injection, and core trainer functionality goes to the [GuidedHacking](https://guidedhacking.com) community and their educational resources. This project simply builds upon their foundational work and adapts it for Alan Wake.
+This project was built using tutorials and code examples from [GuidedHacking.com](https://guidedhacking.com). All credit for the original memory manipulation, process injection, and core trainer functionality goes to the GuidedHacking community and their educational resources. This project simply builds upon their foundational work and adapts it for Alan Wake.
 
 Special thanks to [GuidedHacking.com](https://guidedhacking.com) for their comprehensive game hacking tutorials and code examples.
 
